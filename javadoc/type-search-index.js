@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"proyecto_acronimos","l":"Acronimos"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"proyecto_acronimos","l":"Main"}];updateSearchResults();
